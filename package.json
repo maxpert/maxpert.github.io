@@ -1,0 +1,19 @@
+{
+  "name": "maxpert.github.io",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:maxpert/maxpert.github.io.git",
+  "author": "Zohaib <zohaibsh@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node_modules/.bin/http-server",
+    "generate": "node_modules/.bin/pug src/*.pug --out ./",
+    "watch": "node_modules/.bin/pug -w src/*.pug --out ./"
+  },
+  "dependencies": {
+    "http-server": "^0.10.0",
+    "jstransformer-markdown-it": "^2.0.0",
+    "pug": "^2.0.0-rc.3",
+    "pug-cli": "^1.0.0-alpha6"
+  }
+}

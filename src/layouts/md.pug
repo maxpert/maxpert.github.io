@@ -1,0 +1,15 @@
+doctype html
+html
+  block vars
+  head    
+    title ZSH - #{title}
+    include ../includes/header
+      
+    block scripts
+    style.
+      #markdownContainer {
+        font-family: 'Maven Pro', sans-serif;
+      }
+  body
+    #markdownContainer
+        block content
