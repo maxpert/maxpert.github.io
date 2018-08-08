@@ -3,9 +3,12 @@
 
 # Work Experience
 
+## Technical Lead at DoorDash
+*(April 2018 to Present)* Leading efforts for Platform engineering at DoorDash. 
+
 ## Senior Software Engineer at Microsoft FUSELabs  
 
-*(Sep 2013 to Present)* Working on Microsoft BotFramework I am responsible for various parts of the ecosystem including NodeJS SDK, end-to-end feature development and integration of Dev. Portal, LUIS.ai, and developer evangelism. Also leading front-end of upcoming Azure Bot Service Runtime which (written in Angular2 and ReactJS). System handles over tens of millions of messages per day and growing. http://dev.botframework.com
+*(Sep 2013 to April 2018)* Working on Microsoft BotFramework I am responsible for various parts of the ecosystem including NodeJS SDK, end-to-end feature development and integration of Dev. Portal, LUIS.ai, and developer evangelism. Also leading front-end of upcoming Azure Bot Service Runtime which (written in Angular2 and ReactJS). System handles over tens of millions of messages per day and growing. http://dev.botframework.com
 
 ## Senior Software Engineer at Microsoft Outlook 
 
