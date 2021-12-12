@@ -67,7 +67,7 @@ Worked as a part of permanent faculty at FAST National University of Computer an
 
 # Links and Contact
 
- - Checkout my GitHub: http://github.com/maxpert 
- - Blog http://maxpert.tumblr.com 
- - LinkedIn https://www.linkedin.com/in/zohaibsibtehassan/
- - Twitter https://twitter.com/zohaibility
+ - [GitHub](http://github.com/maxpert)
+ - [Blog](http://maxpert.tumblr.com/)
+ - [LinkedIn](https://www.linkedin.com/in/zohaibsibtehassan/)
+ - [Twitter](https://twitter.com/zohaibility)
