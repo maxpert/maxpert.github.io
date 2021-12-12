@@ -1,7 +1,0 @@
-extends layouts/md
-
-block vars
-    - var title = "Resume"
-
-block content
-    include:markdown-it(linkify angPrefix='highlight-') markdown/resume.md

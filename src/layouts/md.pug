@@ -4,12 +4,40 @@ html
   head    
     title ZSH - #{title}
     include ../includes/header
-      
+
     block scripts
     style.
+      body {
+        background: #A0A0FF;
+        padding: 2.5vw;
+        color: #EEE;
+        font-family: c64_userregular, helvetica, sans-serif;
+        font-weight: normal;
+        letter-spacing: .2vw;
+        line-height: 1.2;
+      }
+
+      a {
+        color: #FFF;
+        font-weight: bold;
+      }
+
+      b, strong {
+        color: #FFF;
+      }
+
+      a:hover, a:active {
+        color: #A0A0FF;
+        background: #FFF;
+      }
+
       #markdownContainer {
-        font-family: 'Maven Pro', sans-serif;
+        background-color: #4040E0;
+        height: 95%;
+        padding: 1.5vw;
+        color: #A0A0FF;
       }
   body
     #markdownContainer
         block content
+    
