@@ -2,11 +2,10 @@ Hi, I am Zohaib Sibte Hassan. I am an Engineering Manager by profession, an engi
 
 # Work Experience
 
-## Technical Lead at DoorDash (April 2018 to Present)
+## Engineering Manager at DoorDash (April 2018 to Present)
 
  - Spearheaded Platform Services, and Identity Service for DoorDash as Technical Lead
  - Leading Consumer Growth and Acquisition team as a Manager
- - A technology enthusiast who loves to solve crazy problems
 
 ## Senior Software Engineer at Microsoft FUSELabs  (Sep 2013 to April 2018)
 
