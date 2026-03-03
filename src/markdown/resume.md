@@ -2,10 +2,10 @@ Hi, I am Zohaib Sibte Hassan. I am an Engineering Manager by profession, an engi
 
 # Work Experience
 
-## Engineering Manager at DoorDash (April 2018 to Present)
+## Senior Engineering Manager at DoorDash (April 2018 to Present)
 
- - Spearheaded Platform Services, and Identity Service for DoorDash as Technical Lead
- - Leading Consumer Growth and Acquisition team as a Manager
+ - Spearheaded Platform Services, and Identity Service for DoorDash as Senior Staff Engineer
+ - Leading Consumer Growth and Acquisition team as Senior Engineering Manager
 
 ## Senior Software Engineer at Microsoft FUSELabs  (Sep 2013 to April 2018)
 
@@ -49,7 +49,7 @@ Worked as a part of permanent faculty at FAST National University of Computer an
 
  - **[Improving Cache Speed at Scale @ RedisConf 2020](https://www.youtube.com/watch?v=mPg20ykAFU4)** A continuation of the 2019 keynote that I did with more techniques and ideas. 
 
- - **[Improving Cache Speed at Scale @ RedisConf 2020](https://www.youtube.com/watch?v=QkUz2_kRV9g)** My keynote at RedisConf 2019 where I presented various techniques we use at DoorDash to improve and reliably run cache servers at scale. 
+ - **[Improving Cache Speed at Scale @ RedisConf 2019](https://www.youtube.com/watch?v=QkUz2_kRV9g)** My keynote at RedisConf 2019 where I presented various techniques we use at DoorDash to improve and reliably run cache servers at scale. 
 
  - **PostgreSQL HSTORE the key-value store everyone ignored**, PGMag Issue #01 with overall 2000+ hard copies distributed in events like PG Con 2011 in Ottawa, and FOSDEM 2012 in Brussels.
 
